@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ASO-CODE/Order-Summary-Component-Frontend-Mentor-](https://github.com/ASO-CODE/Order-Summary-Component-Frontend-Mentor-)
+- Live Site URL: [https://aso-code-order-preview-component.netlify.app/](https://aso-code-order-preview-component.netlify.app/)
 
 ## My process
 

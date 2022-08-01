@@ -99,6 +99,10 @@ button {
   margin-right: 15px;
 }
 
+.pricing-item-1 h2 {
+  font-size: 16px;
+}
+
 .container .buttons {
   display: flex;
   flex-direction: column;
